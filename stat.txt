@@ -1,0 +1,8 @@
+0 Client -> Request Message Counter: 46 Release Message Counter: 46 Grant Message Counter: 46
+1 Client -> Request Message Counter: 44 Release Message Counter: 44 Grant Message Counter: 44
+2 Client -> Request Message Counter: 44 Release Message Counter: 44 Grant Message Counter: 44
+3 Client -> Request Message Counter: 45 Release Message Counter: 45 Grant Message Counter: 45
+4 Client -> Request Message Counter: 44 Release Message Counter: 44 Grant Message Counter: 44
+0 Server -> Request Message counter: 65 Release Message Counter: 65 Grant Message Counter: 65
+1 Server -> Request Message counter: 78 Release Message Counter: 78 Grant Message Counter: 78
+2 Server -> Request Message counter: 80 Release Message Counter: 80 Grant Message Counter: 80
